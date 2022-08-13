@@ -30,6 +30,6 @@ public class EmployeeWageProgram {
     //        System.out.println(dailyWage);
     //    } else {
     //        System.out.println("Employee is absent");
-        }
+//       }
     }
-
+}
